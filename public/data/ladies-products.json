@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "id": 301,
+      "name": "Elegant Evening Dress",
+      "price": 189,
+      "originalPrice": 249,
+      "image": "https://images.unsplash.com/photo-1611003967145-fb3960072424?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "reviews": 456,
+      "category": "dresses",
+      "description": "Sophisticated evening dress perfect for special occasions.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Elegant", "Evening"],
+      "specs": ["Silk blend", "Dry clean only", "Lined", "Back zip"],
+      "brand": "Elegance",
+      "sizes": ["XS", "S", "M", "L", "XL"],
+      "colors": ["Black", "Navy", "Burgundy", "Emerald"]
+    },
+    {
+      "id": 302,
+      "name": "Designer Handbag",
+      "price": 299,
+      "originalPrice": 399,
+      "image": "https://images.unsplash.com/photo-1517841905240-472988babdf9?auto=format&fit=crop&w=600&q=80",
+      "rating": 4.8,
+      "reviews": 789,
+      "category": "bags",
+      "description": "Luxury leather handbag with gold-tone hardware.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Luxury", "Leather"],
+      "specs": [
+        "Genuine leather",
+        "Gold hardware",
+        "Multiple compartments",
+        "Dust bag included"
+      ],
+      "brand": "LuxeBag",
+      "colors": ["Black", "Brown", "Tan", "Red"]
+    },
+    {
+      "id": 303,
+      "name": "Pearl Jewelry Set",
+      "price": 149,
+      "originalPrice": 199,
+      "image": "https://images.unsplash.com/photo-1651047582213-85db909a31f7?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "reviews": 234,
+      "category": "jewelry",
+      "description": "Elegant pearl necklace and earring set.",
+      "inStock": true,
+      "featured": false,
+      "tags": ["Pearl", "Elegant"],
+      "specs": [
+        "Freshwater pearls",
+        "Sterling silver",
+        "Gift box included",
+        "Hypoallergenic"
+      ],
+      "brand": "PearlLux"
+    },
+    {
+      "id": 304,
+      "name": "High Heel Pumps",
+      "price": 129,
+      "originalPrice": 169,
+      "image": "https://images.unsplash.com/photo-1618232468971-54188a224417?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.4,
+      "reviews": 567,
+      "category": "shoes",
+      "description": "Classic pointed-toe pumps with comfortable heel.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Classic", "Professional"],
+      "specs": [
+        "3-inch heel",
+        "Pointed toe",
+        "Cushioned insole",
+        "Non-slip sole"
+      ],
+      "brand": "StepStyle",
+      "sizes": ["5", "6", "7", "8", "9", "10"],
+      "colors": ["Black", "Nude", "Red", "Navy"]
+    }
+  ],
+  "categories": [
+    { "id": "dresses", "name": "Dresses", "icon": "👗" },
+    { "id": "bags", "name": "Bags", "icon": "👜" },
+    { "id": "jewelry", "name": "Jewelry", "icon": "💎" },
+    { "id": "shoes", "name": "Shoes", "icon": "👠" }
+  ]
+}

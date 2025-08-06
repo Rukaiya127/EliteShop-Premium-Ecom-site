@@ -1,0 +1,82 @@
+{
+  "products": [
+    {
+      "id": 201,
+      "name": "The Psychology of Programming",
+      "price": 45,
+      "originalPrice": 55,
+      "image": "https://images.unsplash.com/photo-1531988042231-d39a9cc12a9a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "reviews": 324,
+      "category": "programming",
+      "description": "A comprehensive guide to understanding the mental processes involved in programming.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Programming", "Psychology"],
+      "specs": ["450 pages", "Paperback", "English", "2024 Edition"],
+      "author": "Gerald M. Weinberg",
+      "publisher": "Tech Books",
+      "isbn": "978-0-932633-42-0"
+    },
+    {
+      "id": 202,
+      "name": "Clean Code",
+      "price": 42,
+      "originalPrice": 50,
+      "image": "https://images.unsplash.com/photo-1519682337058-a94d519337bc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "reviews": 1567,
+      "category": "programming",
+      "description": "A handbook of agile software craftsmanship by Robert C. Martin.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Programming", "Best Practices"],
+      "specs": ["464 pages", "Paperback", "English", "1st Edition"],
+      "author": "Robert C. Martin",
+      "publisher": "Prentice Hall",
+      "isbn": "978-0-13-235088-4"
+    },
+    {
+      "id": 203,
+      "name": "The Great Gatsby",
+      "price": 15,
+      "originalPrice": 20,
+      "image": "https://images.unsplash.com/photo-1521056787327-165dc2a32836?q=80&w=1025&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.2,
+      "reviews": 2341,
+      "category": "fiction",
+      "description": "A classic American novel set in the Jazz Age.",
+      "inStock": true,
+      "featured": false,
+      "tags": ["Classic", "Fiction"],
+      "specs": ["180 pages", "Paperback", "English", "Reprint Edition"],
+      "author": "F. Scott Fitzgerald",
+      "publisher": "Scribner",
+      "isbn": "978-0-7432-7356-5"
+    },
+    {
+      "id": 204,
+      "name": "Atomic Habits",
+      "price": 18,
+      "originalPrice": 25,
+      "image": "https://images.unsplash.com/photo-1607473129014-0afb7ed09c3a?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.9,
+      "reviews": 5432,
+      "category": "self-help",
+      "description": "An easy and proven way to build good habits and break bad ones.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Self-Help", "Productivity"],
+      "specs": ["320 pages", "Hardcover", "English", "1st Edition"],
+      "author": "James Clear",
+      "publisher": "Avery",
+      "isbn": "978-0-7352-1129-2"
+    }
+  ],
+  "categories": [
+    { "id": "programming", "name": "Programming", "icon": "💻" },
+    { "id": "fiction", "name": "Fiction", "icon": "📚" },
+    { "id": "self-help", "name": "Self Help", "icon": "🧠" },
+    { "id": "business", "name": "Business", "icon": "💼" }
+  ]
+}

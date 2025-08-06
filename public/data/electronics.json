@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 15 Pro Max",
+      "price": 1299,
+      "originalPrice": 1499,
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "reviews": 2456,
+      "category": "smartphones",
+      "description": "The most advanced iPhone ever with titanium design, A17 Pro chip, and revolutionary camera system.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["New", "Popular"],
+      "specs": ["6.7-inch display", "A17 Pro chip", "48MP camera", "5G ready"],
+      "brand": "Apple"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 16-inch",
+      "price": 2499,
+      "originalPrice": 2799,
+      "image": "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.9,
+      "reviews": 1834,
+      "category": "laptops",
+      "description": "Supercharged by M3 Pro and M3 Max chips for demanding workflows.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Professional", "High Performance"],
+      "specs": ["M3 Pro chip", "18GB RAM", "512GB SSD", "Liquid Retina XDR"],
+      "brand": "Apple"
+    },
+    {
+      "id": 3,
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 1199,
+      "originalPrice": 1399,
+      "image": "https://images.unsplash.com/photo-1533022139390-e31c488d69e2?q=80&w=1332&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.7,
+      "reviews": 1923,
+      "category": "smartphones",
+      "description": "AI-powered smartphone with S Pen and 200MP camera.",
+      "inStock": true,
+      "featured": false,
+      "tags": ["AI Powered", "S Pen"],
+      "specs": ["6.8-inch display", "200MP camera", "S Pen included", "5000mAh battery"],
+      "brand": "Samsung"
+    },
+    {
+      "id": 4,
+      "name": "Dell XPS 13",
+      "price": 999,
+      "originalPrice": 1199,
+      "image": "https://images.unsplash.com/photo-1499914485622-a88fac536970?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.6,
+      "reviews": 1456,
+      "category": "laptops",
+      "description": "Ultra-portable laptop with stunning InfinityEdge display.",
+      "inStock": true,
+      "featured": false,
+      "tags": ["Portable", "Business"],
+      "specs": ["Intel i7", "16GB RAM", "512GB SSD", "13.3-inch display"],
+      "brand": "Dell"
+    },
+    {
+      "id": 5,
+      "name": "Sony WH-1000XM5",
+      "price": 399,
+      "originalPrice": 449,
+      "image": "https://images.unsplash.com/photo-1599950755346-a3e58f84ca63?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "rating": 4.8,
+      "reviews": 892,
+      "category": "audio",
+      "description": "Industry-leading noise canceling headphones with premium sound.",
+      "inStock": true,
+      "featured": true,
+      "tags": ["Noise Canceling", "Premium"],
+      "specs": ["30hr battery", "Quick charge", "Multipoint connection", "Touch controls"],
+      "brand": "Sony"
+    }
+  ],
+  "categories": [
+    { "id": "smartphones", "name": "Smartphones", "icon": "📱" },
+    { "id": "laptops", "name": "Laptops", "icon": "💻" },
+    { "id": "audio", "name": "Audio", "icon": "🎧" },
+    { "id": "gaming", "name": "Gaming", "icon": "🎮" }
+  ]
+}
