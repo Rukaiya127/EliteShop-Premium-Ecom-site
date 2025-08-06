@@ -2,7 +2,7 @@
 
 A modern, feature-rich e-commerce website built with Next.js 15, TypeScript, and Tailwind CSS. Experience premium shopping with advanced features like Elite Credit system, real-time updates, and AI-powered customer support.
 
-![EliteShop Banner](https://via.placeholder.com/1200x400/4F46E5/FFFFFF?text=EliteShop+-+Premium+E-commerce+Experience)
+EliteShop live browser- http://localhost:3000 
 
 ## ✨ Key Features
 
